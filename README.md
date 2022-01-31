@@ -1,3 +1,9 @@
+# Service
+
+https://user-images.githubusercontent.com/59143479/145184721-ec3bf47e-6688-49f9-a305-485e59f1d60e.mov
+
+URL: https://covid-dashboard-oasl2afyza-du.a.run.app/
+
 # Get Started
 ### Linux/Mac
 ```shell
@@ -15,7 +21,3 @@ source ./venv/bin/activate
 pip install -r requirements.txt
 streamlit run app/app.py
 ```
-
-# Service
-
-https://user-images.githubusercontent.com/59143479/145184721-ec3bf47e-6688-49f9-a305-485e59f1d60e.mov
